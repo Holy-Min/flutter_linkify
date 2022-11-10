@@ -10,10 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  linkify: ^4.0.0   
-#   linkify: 
-#     git:
-#       url: https://github.com/Holy-Min/linkify.git
+#  linkify: ^4.0.0
+  linkify:
+    git:
+      url: https://github.com/Holy-Min/linkify.git
 
 dev_dependencies:
   pedantic: ^1.11.0
